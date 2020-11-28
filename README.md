@@ -1,3 +1,5 @@
-learnjava
+# learnjava
 
-点击index.md查看目录
+## 目录
+
+[查看目录](index.md)
