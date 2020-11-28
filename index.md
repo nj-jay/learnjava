@@ -22,5 +22,5 @@
 ## 深究java
 
 - [x] [2020.11.28更新maven管理项目](code/maven-manage-project/README.md)    
-
+- [x] [2020.11.28更新java注解](code/annotation/README.md)
 
