@@ -24,3 +24,5 @@
 - [x] [2020.11.28更新maven管理项目](code/maven-manage-project/README.md)    
 - [x] [2020.11.28更新java注解](code/annotation/README.md)
 
+## 编辑器使用技巧(保持更新)
+- [x] [idea使用技巧](code/idea-skills/README.md)
