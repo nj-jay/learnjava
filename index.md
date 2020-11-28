@@ -18,11 +18,9 @@
 - [x] [2020.10.11更新ArrayList](code/arraylist/README.md)
 - [x] [2020.10.11更新String](code/String/README.md)
 - [x] [2020.10.11更新super与this的用法](code/super-this/README.md)
-
-## 深究java
-
 - [x] [2020.11.28更新maven管理项目](code/maven-manage-project/README.md)    
 - [x] [2020.11.28更新java注解](code/annotation/README.md)
+- [x] [2020.11.29更新instance of关键字](code/instanceOf)
 
 ## 编辑器使用技巧(保持更新)
 - [x] [idea使用技巧](code/idea-skills/README.md)
