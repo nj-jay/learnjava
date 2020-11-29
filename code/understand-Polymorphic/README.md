@@ -115,3 +115,23 @@ dog不仅继承了Animal的方法
 拿到Dog特有的方法
 
 这就是多态!!!
+
+## 为什么要用到多态
+
+为了代码的可维护性
+
+例如List与ArrayList
+
+List有很多实现类如ArrayList, LinkedList.等
+
+他们中大部分方法都是相同的
+
+当使用List list = new ArrayList();
+
+后面想把list改成LinkedList的对象时就特别的容易
+
+仅需改为List list = new LinkedList();
+
+推荐一篇博客的讲解
+
+[讲解推荐](https://www.cnblogs.com/zcscnn/p/7743507.html)
