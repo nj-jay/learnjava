@@ -25,6 +25,6 @@
 
 ## 软件实训(学校安排)
 
--[x] [2020.11.30](code/jdbc)
+- [x] [2020.11.30](code/jdbc)
 ## 编辑器使用技巧(保持更新)
 - [x] [idea使用技巧](code/idea-skills/README.md)
