@@ -27,6 +27,6 @@
 
 - [x] [2020.11.30软件实训day1-jdbc](code/jdbc)
 - [x] [2020.12.01软件实训day2-spring-boot-quickstart](code/spring-boot-quickstart)
-- [x] [2020.12.01软件实训day3-spring-boot-mysql-api](code/sprint-boot-mysql-api)
+- [x] [2020.12.01软件实训day3-spring-boot-mysql-api](code/spring-boot-mysql-api)
 ## 编辑器使用技巧(保持更新)
 - [x] [idea使用技巧](code/idea-skills/README.md)
