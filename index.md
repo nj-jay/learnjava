@@ -22,11 +22,9 @@
 - [x] [2020.11.28更新java注解](code/annotation/README.md)
 - [x] [2020.11.29更新instance of关键字](code/instanceOf)
 - [x] [2020.11.29更新多态](code/understand-Polymorphic)
-
-## 软件实训(学校安排)
-
-- [x] [2020.11.30软件实训day1-jdbc](code/jdbc)
-- [x] [2020.12.01软件实训day2-spring-boot-quickstart](code/spring-boot-quickstart)
-- [x] [2020.12.01软件实训day3-spring-boot-mysql-api](code/spring-boot-mysql-api)
+- [x] [2020.11.30更新jdbc](code/jdbc)
+- [x] [2020.12.01更新spring-boot-quickstart](code/spring-boot-quickstart)
+- [x] [2020.12.01更新spring-boot-mysql-api](code/spring-boot-mysql-api)
+- [x] [2020.12.02更新集合之List的使用](code/collection-List)
 ## 编辑器使用技巧(保持更新)
 - [x] [idea使用技巧](code/idea-skills/README.md)
