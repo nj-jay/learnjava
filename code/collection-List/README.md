@@ -54,6 +54,7 @@ Student s = new Student("nj");
 
 boolean c = arrayList.contains(s);
 
+
 结果为false
 不符合常规
 重写equals方法即可
