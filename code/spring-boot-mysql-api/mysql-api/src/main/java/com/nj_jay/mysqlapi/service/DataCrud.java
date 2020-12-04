@@ -2,7 +2,7 @@ package com.nj_jay.mysqlapi.service;
 
 import com.nj_jay.mysqlapi.database.Connect;
 import com.nj_jay.mysqlapi.database.sql;
-
+import com.nj_jay.mysqlapi.model.LoginUser;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -10,7 +10,7 @@ import java.sql.SQLException;
 
 public class DataCrud {
 
-    public static String QuerySingleLogin(String username) {
+    public static LoginUser QuerySingleLogin(String username) {
 
         try {
 
@@ -24,11 +24,12 @@ public class DataCrud {
 
                 ResultSet res = preparedStatement.executeQuery();
 
-                String ret = null;
+                LoginUser loginUser = new LoginUser();
 
                 while (res.next()) {
 
-                    ret = res.getString("username") + ":" + res.getString("password");
+                    loginUser.setUsername(res.getString("username"));
+                    loginUser.setPassword(res.getString("password"));
 
                 }
 
@@ -38,7 +39,7 @@ public class DataCrud {
 
                 conn.close();
 
-                return ret;
+                return loginUser;
 
             }
 
