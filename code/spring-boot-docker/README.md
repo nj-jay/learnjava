@@ -41,7 +41,7 @@ docker ps
 curl -d "username=admin" http://localhost:32769/api/v1/data
 ```
 
-<img src="img/spring-boot-docker1.png" style="zoom:67%;" />
+<img src="https://picture.nj-jay.com/spring-boot-docker1.png" style="zoom:67%;" />
 
-<img src="img/spring-boot-docker2.png" style="zoom:67%;" />
+<img src="https://picture.nj-jay.com/spring-boot-docker2.png" style="zoom:67%;" />
 
