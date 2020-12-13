@@ -41,7 +41,7 @@ docker ps
 curl -d "username=admin" http://localhost:32769/api/v1/data
 ```
 
-![image-20201213131527866](http://picture.nj-jay.com/image-20201213131527866.png)
+![image-20201213131527866](https://picture.nj-jay.com/image-20201213131527866.png)
 
-![image-20201213131618932](http://picture.nj-jay.com/image-20201213131618932.png)
+![image-20201213131618932](https://picture.nj-jay.com/image-20201213131618932.png)
 
